@@ -10,3 +10,4 @@ grep -rE --color=always '\([0-9]{3}\) [0-9]{3}-[0-9]{4}' . --exclude-dir={.git} 
 echo "========= PHONE NUMBER SCAN COMPLETE ========="
 
 ### Adding additional code to generate an extra commit followed by git push
+# TODO: write the script
